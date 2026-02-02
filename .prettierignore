@@ -1,0 +1,8 @@
+node_modules
+dist
+tsconfig.json
+.vscode/settings.json
+package.json
+.prettierrc.json
+public
+pnpm-lock.yaml
